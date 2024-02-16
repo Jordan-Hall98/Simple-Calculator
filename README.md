@@ -1,2 +1,2 @@
 # Simple-Calculator
-A simple calculator consisting of 4 operations
+A simple calculator consisting of 4 operations + - / * 
